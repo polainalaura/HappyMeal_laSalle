@@ -1,1 +1,2 @@
 # HappyMeal_laSalle
+El programa está organizado en dos partes principales: la clase Menu, que contiene los atributos del menú y los métodos para asignar cada parte, generar la sorpresa y calcular el precio total; y la clase PolainaLauraMain, que gestiona la interacción con el usuario mediante un menú guiado en consola. Una vez completado el proceso, el programa muestra un resumen del pedido con todos los elementos seleccionados y el precio final.
